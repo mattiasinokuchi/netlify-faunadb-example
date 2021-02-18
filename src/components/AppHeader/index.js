@@ -12,7 +12,7 @@ const AppHeader = (props) => {
           <div className='app-left-nav'>
             <img src={logo} className='app-logo' alt='logo' />
             <div className='app-title-text'>
-              <h1 className='app-title'>Netlify + Fauna DB</h1>
+              <h1 className='app-title'>Mattias + Netlify + Fauna DB = ?</h1>
               <p className='app-intro'>
                 Using FaunaDB & Netlify functions
               </p>
