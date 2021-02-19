@@ -2,6 +2,8 @@
 
 Example of using [FaunaDB](https://fauna.com/) with [Netlify functions](https://www.netlify.com/docs/functions/)
 
+See working app at https://zen-leavitt-c89756.netlify.app/
+
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Expand Table of Contents) -->
 <details>
 <summary>Expand Table of Contents</summary>
